@@ -18,3 +18,7 @@ Accuracy between about 0.68 and 0.86 in the saved notebook output.
 ## Data
 
 Spine dataset, included with an overview document.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Spine_detection) that differ from the files above.
